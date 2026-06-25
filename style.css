@@ -47,3 +47,25 @@ border: none;
 outline: none;
 
 }
+
+.start:hover{
+  background: #f4c842;
+  transform:scale(1.02);
+  tranform-origin:all 0.1s ease-in-out;
+}
+
+.searchBox input{
+  height:40px;
+  width:280px;
+  background-color:white;
+  display:flex;
+  align-items: center;
+  justify-content:space-between;
+  border-radius:8px;
+}
+
+.searchBox input{
+  width : 250px; 
+  height:40px;
+
+}
